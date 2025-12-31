@@ -1,3 +1,8 @@
 title: Your Site Title
 description: A simple blog
 theme: minima
+header_pages:
+  - index.md
+  - blog.md
+  - projects.md
+  - about.md
